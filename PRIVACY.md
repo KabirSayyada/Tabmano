@@ -23,16 +23,17 @@ Your data remains on your device and is subject to the security of your browser 
 ## Data Retention
 Your data is retained in your local storage until you:
 
-Delete a workspace
-Remove a tab from a workspace
-Uninstall the extension
+- Delete a workspace
+- Remove a tab from a workspace
+- Uninstall the extension
 
 ## Your Rights
 You have complete control over your data. You can:
 
-View all saved workspaces and tabs at any time
-Delete any workspace or tab
-Clear all data by uninstalling the extension
-Changes to This Privacy Policy
+- View all saved workspaces and tabs at any time
+- Delete any workspace or tab
+- Clear all data by uninstalling the extension
+
+## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Chrome Web Store listing. 
 You are advised to review this Privacy Policy periodically for any changes.
