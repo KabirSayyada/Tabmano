@@ -6,12 +6,12 @@ We are committed to protecting your privacy and being transparent about our prac
 
 Tabmano does not:
 
-Collect personal information
-Track your browsing history
-Send your data to external servers
-Use analytics services
-Share any information with third parties
-No access to Information Stored Locally
+- Collect personal information
+- Track your browsing history
+- Send your data to external servers
+- Use analytics services
+- Share any information with third parties
+- No access to Information Stored Locally
 
 
 All information is stored solely on your device and is only used to provide the core functionality of the extension.
