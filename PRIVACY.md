@@ -1,11 +1,9 @@
-Privacy Policy for Tabmano: Tab Manager and Organizer
+## Privacy Policy for Tabmano: Tab Manager and Organizer
 
 ## Introduction
 This Privacy Policy explains how Tabmano ("we", "our", or "the extension") handles your information when you use our browser extension. 
 We are committed to protecting your privacy and being transparent about our practices.
 
-Information Collection and Use
-Information We Do Not Collect
 Tabmano does not:
 
 Collect personal information
@@ -13,7 +11,7 @@ Track your browsing history
 Send your data to external servers
 Use analytics services
 Share any information with third parties
-Information Stored Locally
+No access to Information Stored Locally
 
 
 All information is stored solely on your device and is only used to provide the core functionality of the extension.
